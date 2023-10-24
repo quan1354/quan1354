@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/quan1354/quan1354/assets/67883068/064439cb-31b4-4668-b4d0-6568d131eac7" height="700" width="400"/>
+  <img src="https://github.com/quan1354/quan1354/assets/67883068/064439cb-31b4-4668-b4d0-6568d131eac7" height="400" width="700"/>
 </p>
 
 <h1 align="center" style="color:blue">Hi 👋, I'm Chuah Jing Quan</h1>
