@@ -1,4 +1,6 @@
-![8-40hhtJN5Y3hZRsk](https://github.com/quan1354/quan1354/assets/67883068/0a05c130-9264-4761-a56f-707853a38964)
+<div align="center">
+  ![8-40hhtJN5Y3hZRsk](https://github.com/quan1354/quan1354/assets/67883068/86c88dad-e0e4-49d4-8431-5c0a201defd3)
+</div>
 
 <h1 align="center" style="color:blue">Hi 👋, I'm Chuah Jing Quan</h1>
 <h3 align="center" style="color:blue">Software Developer from Malaysia</h3>
