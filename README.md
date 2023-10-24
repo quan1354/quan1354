@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Chuah Jing Quan</h1>
-<h3 align="center">A passionate full-stack developer from Malaysia</h3>
+<h1 align="center" style="color:blue">Hi 👋, I'm Chuah Jing Quan</h1>
+<h3 align="center" style="color:blue">Software Developer from Malaysia</h3>
 
 - 🔭 I’m currently working on **AI and Software Development**
 
