@@ -93,6 +93,38 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
         </td>
     </tr>
+    <tr>
+        <th>Database</th>
+        <td>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+            <img width="12" />
+            <img src="https://github.com/user-attachments/assets/b16aea24-b001-4757-985a-adc244c2497a" height="40" alt="nodejs logo"  />
+            <img width="12" />
+            <img src="https://github.com/user-attachments/assets/38d2fd56-a1d4-498f-8843-8cacd4a402f1" height="40" alt="express logo"  />
+        </td>
+    </tr>
+    <tr>
+        <th>Computer Vision & Internet of things (IoT)</th>
+        <td>
+            <img src="https://skillicons.dev/icons?i=arduino" height="40" alt="arduino logo"  />
+            <img width="12" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
+        </td>
+    </tr>
+    <tr>
+        <th>Data Visualization</th>
+        <td>
+            <img src="https://github.com/user-attachments/assets/c3a65e34-ef1e-4180-ad2d-292463a1748b" height="40" alt="arduino logo"  />
+            <img width="12" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/d3js/d3js-original.svg" height="40" alt="d3js logo"  />
+        </td>
+    </tr>
+    <tr>
+        <th>Cloud Solution</th>
+        <td>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
+        </td>
+    </tr>
 </table>
 
 <h2 align="left" style="color:blue">📊 My GitHub Stats</h2>
