@@ -54,7 +54,6 @@
                     <td>
                         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
                         <img width="50" />
-                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
                     </td>
                 </tr>   
                 <tr>
@@ -74,6 +73,24 @@
                     </td>
                 </tr>
             </table>
+        </td>
+    </tr>
+    <tr>
+        <th>Mobile Development</th>
+        <td>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
+            <img width="12" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
+        </td>
+    </tr>
+    <tr>
+        <th>API Development</th>
+        <td>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
+            <img width="12" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+            <img width="12" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
         </td>
     </tr>
 </table>
