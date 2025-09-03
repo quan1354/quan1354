@@ -47,7 +47,8 @@
                     <th>Framework</th>
                     <td>
                         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
-                        <img width="50" />
+                        <img width="12" />
+                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
                     </td>
                 </tr>   
                 <tr>
