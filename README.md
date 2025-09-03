@@ -104,6 +104,8 @@
         <td>
             <img src="https://skillicons.dev/icons?i=arduino" height="40" alt="arduino logo"  />
             <img width="12" />
+            <img height="40" alt="image" src="https://github.com/user-attachments/assets/d5c6d7ed-571b-4a97-a665-f7dccc5100da" />
+            <img width="12" />
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
         </td>
     </tr>
