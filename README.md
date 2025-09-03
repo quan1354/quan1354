@@ -1,7 +1,13 @@
 <h2 align="center" style="color:blue">👋🏻 Hi I'm Jing Quan Chuah</h2>
 
 <blockquote>
-    About me ...
+    <ul>
+        <li>📍 Based in Bandar Cassia, Malaysia</li>
+        <li>🎓 Data Scientist passionate about machine learning and data storytelling</li>
+        <li>🧠 Experienced in Python, C++, and statistical modeling</li>
+        <li>🤝 Collaborating with cross-functional teams to solve real-world problems</li>
+        <li>🚀 Always learning and exploring new technologies</li>
+    </ul>
 </blockquote>
 
 <div align="center">
