@@ -23,7 +23,6 @@
         height="35" alt="youtube logo" />
 </div>
 
-<h2>💻 Tech Stack </h2>
 
 
 <br clear="both">
