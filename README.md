@@ -101,6 +101,8 @@
             <img src="https://github.com/user-attachments/assets/b16aea24-b001-4757-985a-adc244c2497a" height="40" alt="nodejs logo"  />
             <img width="12" />
             <img src="https://github.com/user-attachments/assets/38d2fd56-a1d4-498f-8843-8cacd4a402f1" height="40" alt="express logo"  />
+            <img width="12" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
         </td>
     </tr>
     <tr>
