@@ -32,8 +32,18 @@
 
 
 <h2 align="left" style="color:blue">💻 Skills & Expertise</h2>
-<h3>Coding Languages</h3>
-<h3>Technologies</h3>
+<table>
+    <tr>
+        <th>Programming Language</th>
+        <td>C C# C++ Python Assembly Java Kotlin</td>
+    </tr>
+    <tr>
+        <th>Web Development</th>
+        <td>Angular, HTML, CSS, Javascript, Typescript, SASS, Express, NodeJS, PHP, FastAPI, Flask, Django,
+            Angular Material, Bootstrap, JQuery Mobile, Vue Quasar
+        </td>
+    </tr>
+</table>
 
 </br>
 
