@@ -12,8 +12,6 @@
 </blockquote>
 
 
-</br>
-
 
 <div align="center">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge"
@@ -79,8 +77,6 @@
         </td>
     </tr>
 </table>
-
-</br>
 
 <h2 align="left" style="color:blue">📊 My GitHub Stats</h2>
 <div align="left">
