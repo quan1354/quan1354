@@ -32,8 +32,8 @@
 
 
 <h2 align="left" style="color:blue">💻 Skills & Expertise</h2>
-<b>Coding Languages</b>
-<b>Technologies</b>
+<h3>Coding Languages</h3>
+<h3>Technologies</h3>
 
 </br>
 
